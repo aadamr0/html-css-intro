@@ -1,0 +1,9 @@
+* {
+    border: 1px dashed black;
+}
+html {
+    min-height: 100px;
+}
+head {
+    min-height: 50px;
+}
