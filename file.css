@@ -1,0 +1,38 @@
+* {
+    border: 2px dotted black;
+}
+body {
+    background-color: powderblue;
+}
+img {
+    max-width: 10%;
+    max-height: 10%;
+    border: thin dashed #555;
+    border-radius: 50%;
+}
+h1, h2 {
+    font-family:'Courier New', Courier, monospace;
+}
+a{
+    font-size: large;
+}
+ul, ol {
+    color:rgb(130, 22, 60);
+}
+#p1 {
+    margin: 2cm;
+    max-width: 4cm;
+    padding: 30px;
+    border: 1cm inset #24b104
+
+}
+#meem-img{
+    padding-left: 1cm;
+    padding-right: 1cm;
+    padding-top: 1cm;
+    padding-bottom: 2cm;
+}
+
+#noon-img {
+    margin-left: 30px;
+}
